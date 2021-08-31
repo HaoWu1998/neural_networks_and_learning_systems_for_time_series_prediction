@@ -1,4 +1,4 @@
-# neural_networks_and_learning_systems_for_time_series_prediction
+# Neural networks for time series prediction
 
 # 1. Code samples for create and train a feedforward neural network
 ```python
